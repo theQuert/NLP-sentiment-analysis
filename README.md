@@ -9,6 +9,6 @@ If you prefer to work on local environment, this repo is able to run using [Jupy
 - Since BERT model is developed under `Tensorflow 1.x`, more modification to get compatible with `Tensorflow 2.x` is already added to codes.
 
 ## Run the classifier
-To run the classifier, follow the indtructions below...     
+To run the classifier, follow the instructions below...     
 - If running on local environment, import [BERT_Demo](https://github.com/the-Quert/bert_demo/tree/master/bert_demo.ipynb) to [Jupyter Notebook](https://jupyter.org/).
 - If running on [Google Colab](https://colab.research.google.com), import [BERT_Demo](https://github.com/the-Quert/bert_demo/tree/master/bert_demo.ipynb) directly.
